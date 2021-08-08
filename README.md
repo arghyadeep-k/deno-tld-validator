@@ -19,9 +19,11 @@ import { validateTLD } from "https://deno.land/x/tld-validator/mod.ts";
 ```
 
 ## Parameter
+
 - `tld: string` - Input tld, the validity of which is to be checked.
 
 ## Output
+
 Returns `true` if the tld is valid else `false`.
 
 ## Usage
@@ -66,5 +68,3 @@ And, if you are willing to [buy me a coffee](https://ko-fi.com/arghyadeep), that
 would be awesome. :)
 
 <a href='https://ko-fi.com/arghyadeep' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-
