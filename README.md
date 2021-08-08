@@ -29,17 +29,15 @@ Returns `true` if the tld is valid else `false`.
 ## Usage
 
 ```typescript
-import {validateTLD} from "https://deno.land/x/tld-validator/mod.ts";
+import { validateTLD } from "https://deno.land/x/tld-validator/mod.ts";
 
 const inputTLD = "photo";
 const isValidTLD = validateTLD(inputTLD);
 
-if(isValidTLD){
-    console.log(`${inputTLD} is a valid TLD`);
-}
-
-else{
-    console.log(`${inputTLD}` is an invalid TLD`);
+if (isValidTLD) {
+  console.log(`${inputTLD} is a valid TLD`);
+} else {
+  console.log(`${inputTLD} is an invalid TLD`);
 }
 ```
 
