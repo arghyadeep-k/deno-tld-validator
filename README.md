@@ -10,7 +10,7 @@
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=arghyadeep-k_deno-tld-validator&metric=ncloc)](https://sonarcloud.io/dashboard?id=arghyadeep-k_deno-tld-validator)
 [![Ko-Fi](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/arghyadeep)
 
-Deno 🦕 module to check if a Top Level Domain or TLD is valid.
+Deno 🦕 module to check if a Top Level Domain(TLD) is valid.
 
 ## Installation
 
